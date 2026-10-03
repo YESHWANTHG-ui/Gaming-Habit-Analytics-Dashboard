@@ -1,0 +1,7 @@
+"Player_ID","Player_Name","Age","Game","Platform","Genre","Hours_Per_Day","Days_Per_Week","Session_Minutes","Sleep_Hours","Screen_Time","Gaming_Spending","Mood"
+1,"Arun",20,"GTA V","PC","Action",3.5,5,120,7,6,500,"Happy"
+2,"Rahul",21,"Valorant","PC","FPS",4,6,180,6,8,1000,"Excited"
+3,"Kiran",19,"Minecraft","PC","Sandbox",2.5,4,90,8,5,300,"Relaxed"
+4,"Mikey",22,"PUBG","Mobile","Battle Royale",3,7,150,6.5,7,800,"Neutral"
+5,"Vijay",20,"FIFA 24","PlayStation","Sports",2,3,100,8,4,600,"Happy"
+6,"YUNO",20,"Free Fire","PC","FPS",10,5,90,7,7,500,"Happy"
